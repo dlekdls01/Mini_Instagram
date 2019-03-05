@@ -1,0 +1,12 @@
+C:\Users\user562\source\repos\2015726044_이다인\2015726044_이다인_liabrary\bin\Debug\2015726044_이다인_liabrary.dll
+C:\Users\user562\source\repos\2015726044_이다인\2015726044_이다인_liabrary\bin\Debug\2015726044_이다인_liabrary.pdb
+C:\Users\user562\source\repos\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_liabrary.csprojResolveAssemblyReference.cache
+C:\Users\user562\source\repos\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_liabrary.csproj.CoreCompileInputs.cache
+C:\Users\user562\source\repos\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_liabrary.dll
+C:\Users\user562\source\repos\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_liabrary.pdb
+C:\Users\user562\Desktop\응소실\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\bin\Debug\2015726044_이다인_liabrary.dll
+C:\Users\user562\Desktop\응소실\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\bin\Debug\2015726044_이다인_liabrary.pdb
+C:\Users\user562\Desktop\응소실\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_liabrary.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\응소실\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_liabrary.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\응소실\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_liabrary.dll
+C:\Users\user562\Desktop\응소실\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_liabrary.pdb

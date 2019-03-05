@@ -1,0 +1,6 @@
+C:\Users\user562\Desktop\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\bin\Debug\2015726044_이다인_library.dll
+C:\Users\user562\Desktop\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\bin\Debug\2015726044_이다인_library.pdb
+C:\Users\user562\Desktop\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_library.csprojResolveAssemblyReference.cache
+C:\Users\user562\Desktop\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_library.csproj.CoreCompileInputs.cache
+C:\Users\user562\Desktop\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_library.dll
+C:\Users\user562\Desktop\hw2\hw2\2015726044_이다인\2015726044_이다인_liabrary\obj\Debug\2015726044_이다인_library.pdb
